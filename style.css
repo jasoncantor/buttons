@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+body {
+  background: #0A122A;
+}
+
 /* Let's style the wrapper in such away that, 
 it should always be at the center of the browser */
 .wrapper {
@@ -135,4 +139,64 @@ to align it properly */
   .wrapper ul li.google{
       margin-left: 15px;
   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* youtube link */
+.youtube{
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  width: 160px;
+  text-align: center;
+  padding: 15px 10px;
+  background: #bb0000;
+  border-radius: 5px;
+}
+
+.youtube a{
+  text-decoration: none;
+  color: #fff;
+  text-transform: capitalize;
+  letter-spacing: 1px;
 }
