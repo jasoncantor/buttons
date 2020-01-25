@@ -131,9 +131,9 @@ to align it properly */
       width: 150px;
   }
   .wrapper ul li{
-      margin:15px;
+      margin:12px;
   }
   .wrapper ul li.google{
-      margin-left: 15px;
+      margin-left: 12px;
   }
 }
