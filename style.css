@@ -23,9 +23,9 @@ it should always be at the center of the browser */
   and float them to left and set its border and border-radius.
  */
 .wrapper ul li {
-  width: 75px;
-  height: 75px;
-  line-height: 75px;
+  width: 12px;
+  height: 12px;
+  line-height: 12px;
   margin: 0 10px;
   text-align: center;
   cursor: pointer;
